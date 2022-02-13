@@ -27,7 +27,7 @@ locale: en_US
 
 url:
 baseurl:
-# logo: "/assets/images/88x88.png"
+# logo: "/assets/images/eagle_head"
 
 # Build settings
 markdown: kramdown
@@ -130,6 +130,8 @@ defaults:
       layout: single
       author_profile: true
 
+environment: production
+
 analytics:
   provider: "google-gtag"
   google:
@@ -142,3 +144,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/mdecentralize"
+    - "https://instagram.com/"
+    - "https://medium.com/@mdecentralize"
+    - "https://mdecentralize.substack.com"
