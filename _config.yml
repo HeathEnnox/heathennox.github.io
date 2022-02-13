@@ -41,6 +41,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Breadcrumbs
 breadcrumbs: true
 
+encoding: "utf-8"
+
 include:
   - _pages
 
@@ -175,3 +177,7 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
