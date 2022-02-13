@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "MDecentralize"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A young doctor's journey through productivity, technology, and finance."
   links:
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
@@ -128,7 +128,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-8HS3M2FV6Q"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
 
 category_archive:
   type: liquid
