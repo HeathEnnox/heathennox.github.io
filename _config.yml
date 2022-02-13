@@ -43,6 +43,9 @@ breadcrumbs: true
 
 encoding: "utf-8"
 
+# Comments
+comments:
+
 include:
   - _pages
 
