@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Doctor learning about productivity, technology, and finance
 twitter_username: mdecentralize
 github_username: heathennox
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
