@@ -85,7 +85,7 @@ author:
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@mdecentralize"
     - label: "Substack"
-      icon: <span class="iconify" data-icon="simple-icons:substack"></span>
+      icon: "fab fa-fw fa-bookmark"
       url: "https://mdecentralize.substack.com"
 
 footer:
