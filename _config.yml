@@ -153,3 +153,8 @@ social:
     - "https://instagram.com/"
     - "https://medium.com/@mdecentralize"
     - "https://mdecentralize.substack.com"
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
