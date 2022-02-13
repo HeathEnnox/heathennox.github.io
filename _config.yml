@@ -75,9 +75,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mdecentralize"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/heathennox"
+   # - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+   #   url: "https://github.com/heathennox"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -93,9 +93,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mdecentralize"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/heathennox"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -103,7 +100,7 @@ footer:
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@mdecentralize"
     - label: "Substack"
-      icon: <span class="iconify" data-icon="simple-icons:substack"></span>
+      icon: "fab fa-fw fa-bookmark"
       url: "https://mdecentralize.substack.com"
 
 defaults:
