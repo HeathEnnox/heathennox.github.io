@@ -62,6 +62,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-titles-from-headings
 
 author:
   name   : "MDecentralize"
@@ -84,7 +85,7 @@ author:
       icon: "fab fa-fw fa-medium"
       url: ""
     - label: "Substack"
-      icon: "fab fa-fw fa-substack"
+      icon: <span class="iconify" data-icon="simple-icons:substack"></span>
       url: ""
 
 footer:
@@ -102,7 +103,7 @@ footer:
       icon: "fab fa-fw fa-medium"
       url: ""
     - label: "Substack"
-      icon: "fab fa-fw fa-substack"
+      icon: <span class="iconify" data-icon="simple-icons:substack"></span>
       url: ""
 
 defaults:
