@@ -69,9 +69,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+   # - label: "Website"
+   #   icon: "fas fa-fw fa-link"
+   #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mdecentralize"
@@ -83,10 +83,10 @@ author:
       url: "https://instagram.com/"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
-      url: ""
+      url: "https://medium.com/@mdecentralize"
     - label: "Substack"
       icon: <span class="iconify" data-icon="simple-icons:substack"></span>
-      url: ""
+      url: "https://mdecentralize.substack.com"
 
 footer:
   links:
@@ -101,10 +101,10 @@ footer:
       url: "https://instagram.com/"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
-      url: ""
+      url: "https://medium.com/@mdecentralize"
     - label: "Substack"
       icon: <span class="iconify" data-icon="simple-icons:substack"></span>
-      url: ""
+      url: "https://mdecentralize.substack.com"
 
 defaults:
   # _posts
