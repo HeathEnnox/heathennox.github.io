@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: MDecentralize
 subtitle: A curious M.D. documenting his journey
 email: mdecentralize@gmail.com
@@ -23,6 +24,7 @@ twitter_username: mdecentralize
 github_username: heathennox
 minimal_mistakes_skin: contrast
 search: true
+locale: en_US
 
 # logo: "/assets/images/88x88.png"
 
