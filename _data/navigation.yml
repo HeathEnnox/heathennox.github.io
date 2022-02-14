@@ -12,11 +12,9 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: "/quick-start-guide/""
-      - title: "Structure"
-        url: "/structure/""
+        url: "_docs/quick-start-guide/"
       - title: "Installation"
-        url: "/installation/""
+        url: "_docs/installation/""
       - title: "Upgrading"
-        url: "/upgrading/""
+        url: "_docs/upgrading/""
 
