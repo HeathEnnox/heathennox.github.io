@@ -9,10 +9,10 @@ main:
     url: /about/
 
 sidebar:
-  - title: Getting Started
+  - title: Navigation
     children:
-      - title: "Quick-Start Guide"
-        url: /quick-start-guide/
+      - title: "Newsletter"
+        url: /newsletter/
       - title: "Installation"
         url: /installation/
       - title: "Upgrading"
