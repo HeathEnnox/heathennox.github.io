@@ -127,6 +127,8 @@ defaults:
       share: true
       related: true
       show-date: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
