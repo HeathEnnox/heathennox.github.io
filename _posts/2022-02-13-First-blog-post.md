@@ -3,6 +3,7 @@ layout: single
 title: First blog post
 date: 2022-02-13
 show-date: true
+date_format: "%Y-%m-%d"
 permalink:
 excerpt:
 
