@@ -6,7 +6,7 @@ permalink:
 excerpt:
 
 categories: [Blog]
-tags: [tag]
+tags: [test]
 
 sidebar:
   nav: "docs"
