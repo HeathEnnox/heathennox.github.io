@@ -4,7 +4,6 @@ title: First blog post
 date: 2022-02-13
 show-date: true
 date_format: "%Y-%m-%d"
-permalink:
 excerpt:
 
 categories: [blog]
@@ -20,3 +19,5 @@ toc_sticky: true
 ## Testing things out
 
 Hi
+
+Hello
