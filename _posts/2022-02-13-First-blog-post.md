@@ -2,6 +2,7 @@
 layout: single
 title: First blog post
 date: 2022-02-13
+show-date: true
 permalink:
 excerpt:
 
