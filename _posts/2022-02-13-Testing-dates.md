@@ -7,7 +7,7 @@ date_format: "%Y-%m-%d"
 permalink:
 excerpt:
 
-categories: [blog]
+categories: [Blog]
 tags: [test]
 
 sidebar:

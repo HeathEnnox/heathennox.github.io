@@ -6,7 +6,7 @@ show-date: true
 date_format: "%Y-%m-%d"
 excerpt:
 
-categories: [blog]
+categories: [Blog]
 tags: [test]
 
 sidebar:
