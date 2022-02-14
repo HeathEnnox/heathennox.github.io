@@ -5,7 +5,7 @@ date: 2022-02-13
 permalink:
 excerpt:
 
-categories: [Blog]
+categories: [blog]
 tags: [test]
 
 sidebar:
