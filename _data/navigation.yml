@@ -12,9 +12,9 @@ sidebar:
   - title: Navigation
     children:
       - title: "Newsletter"
-        url: /newsletter/
+        url: /_pages/newsletter/
       - title: "Installation"
-        url: /installation/
+        url: /_pages/installation/
       - title: "Upgrading"
-        url: /upgrading/
+        url: /_pages/upgrading/
 
