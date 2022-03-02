@@ -1,20 +1,17 @@
 main:
-  - title: "POSTS"
+  - title: "ARTICLES"
     url: /posts/
-  - title: "CATEGORIES"
-    url: /categories/
-  - title: "TAGS"
-    url: /tags/
+  - title: "NEWSLETTER"
+    url: /posts/
   - title: "ABOUT"
     url: /about/
 
 sidebar:
   - title: Navigation
     children:
-      - title: "Newsletter"
-        url: "/_pages/newsletter/"
-      - title: "Installation"
-        url: "/_pages/installation/"
-      - title: "Upgrading"
-        url: "/_pages/upgrading/"
+      - title: "Categories"
+        url: "/_pages/category-archive/"
+      - title: "Tags"
+        url: "/_pages/tag-archive/"
+
 
