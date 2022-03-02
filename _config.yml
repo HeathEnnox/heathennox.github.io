@@ -125,7 +125,7 @@ defaults:
       read_time: true
       share: true
       related: true
-      show-date: true
+      show_date: true
       sidebar:
         nav: "sidebar"
       comments: true
