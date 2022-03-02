@@ -11,7 +11,7 @@ categories: [Blog]
 tags: []
 
 sidebar:
-  nav: "docs"
+  nav: "sidebar"
 
 toc: true
 toc_sticky: true
