@@ -10,9 +10,9 @@ sidebar:
   - title: Navigation
     children:
       - title: "Categories"
-        url: "/_pages/categories/"
+        url: /categories/
       - title: "Tags"
-        url: "/_pages/tags/"
+        url: /tags/
 
 
 
