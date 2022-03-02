@@ -2,7 +2,7 @@ main:
   - title: "ARTICLES"
     url: /posts/
   - title: "NEWSLETTER"
-    url: /posts/
+    url: /newsletter/
   - title: "ABOUT"
     url: /about/
 
@@ -10,8 +10,8 @@ sidebar:
   - title: Navigation
     children:
       - title: "Categories"
-        url: "/_pages/category-archive/"
+        url: "/_pages/categories/"
       - title: "Tags"
-        url: "/_pages/tag-archive/"
+        url: "/_pages/tags/"
 
 
