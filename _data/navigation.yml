@@ -13,7 +13,6 @@ sidebar:
         url: "/_pages/categories/"
       - title: "Tags"
         url: "/_pages/tags/"
-      - title: "Archive"
-        url: "/_pages/year-archive/"
+
 
 
