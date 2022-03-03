@@ -26,7 +26,6 @@ toc_sticky: true
 
 ## Inspiration
 - [Ali Abdaal](https://aliabdaal.com/) and his book recommendation *[Show Your Work](https://austinkleon.com/show-your-work/)*
-	- More specifically this [video](https://www.youtube.com/watch?v=COhm-736828) with [David Perell](https://perell.com/)
 
 ## Types of articles
 - Blog posts
