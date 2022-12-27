@@ -140,6 +140,16 @@ defaults:
 
 environment: production
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8HS3M2FV6Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8HS3M2FV6Q');
+</script>
+
 analytics:
   provider: "google-gtag"
   google:
