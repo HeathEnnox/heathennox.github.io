@@ -18,6 +18,7 @@ toc_sticky: true
 ---
 
 If you're like me, and like to **organize your daily notes in different folders** according to the year, here is a short guide to automate folder creation. 
+
 ![](https://i.imgur.com/t3gvKIg.png)
 
 ## Plugins
